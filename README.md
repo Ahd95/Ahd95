@@ -3,7 +3,7 @@
 
 ## I'm hrad worker !!
 - ⚡ Junior Data Scientist [@Sdaia Academy]
-- 🌱 I’m currently learning Data Scientis & Artificial Intelligence
+- 🌱  Currently Learning Data science and Artificial Intelligence 
 - 👯 I’m looking to collaborate on interesting projects 
 - 🤔 Business Intelligence Analyst
 - 💬 Excellent Communication skills 
