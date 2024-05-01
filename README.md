@@ -1,12 +1,11 @@
 ### Hello World, I'm Ahd 👋
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="220" />
 
-## I'm hrad worker !!
-- ⚡ Junior Data Scientist [@Sdaia Academy]
+## I'm hard worker !!
+- ⚡ Junior Data Scientist 
 - 🌱  Currently Learning Data science and Artificial Intelligence 
 - 👯 I’m looking to collaborate on interesting projects 
 - 🤔 Business Intelligence Analyst
-- 💬 Excellent Communication skills 
 - 📫 How to reach me: Jahdaliahd@gmail.com
 
 
